@@ -36,3 +36,12 @@ bad_command
 bad_command > stdout.txt
 bad_command >> stdout.txt
 bad_command > stderr.txt
+stedrr > stderr.txt
+stderr > stderr.txt
+stderr 2> stderr.txt
+stderr 2> stderr.txt
+stderr2 > stderr.txt
+stderr 2> stderr.txt
+stderr > stderr.txt
+stderr >> stderr.txt
+bad_command 2> stderr.txt
