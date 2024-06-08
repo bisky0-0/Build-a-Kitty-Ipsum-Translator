@@ -33,3 +33,6 @@ echo hello bash > stdout.txt
 __vsc_prompt_cmd_original
 > stdout.txt
 bad_command
+bad_command > stdout.txt
+bad_command >> stdout.txt
+bad_command > stderr.txt
