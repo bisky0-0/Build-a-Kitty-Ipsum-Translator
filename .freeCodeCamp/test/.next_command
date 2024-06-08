@@ -32,3 +32,4 @@ echo hello bash >> stdout.txt
 echo hello bash > stdout.txt
 __vsc_prompt_cmd_original
 > stdout.txt
+bad_command
