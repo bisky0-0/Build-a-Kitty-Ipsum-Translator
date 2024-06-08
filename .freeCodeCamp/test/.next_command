@@ -54,3 +54,5 @@ echo NAME
 echo $NAME
 echo $NAME > stdout
 echo $NAME > stdout.txt
+echo freecodecamp > name.txt
+echo freeCodeCamp > name.txt
