@@ -56,3 +56,11 @@ echo $NAME > stdout
 echo $NAME > stdout.txt
 echo freecodecamp > name.txt
 echo freeCodeCamp > name.txt
+read NAME
+read NAME name.txt
+read NAME
+echo $NAME
+read NAME
+echo $NAME
+read NAME > name.txt
+read NAME < name.txt
