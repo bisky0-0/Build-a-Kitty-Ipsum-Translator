@@ -95,3 +95,4 @@ echo $NAME < name.txt
 echo $NAME > name.txt
 echo $NAME < name.txt
 echo Yasmeen
+echo $NAME
