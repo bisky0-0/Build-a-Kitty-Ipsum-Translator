@@ -117,3 +117,12 @@ name.txt < echo
 ./script.sh < name.txt
 ./script.sh < name.txt 2> stderr.txt
 ./script.sh < name.txt 2> stderr.txt > stdout.txt
+./kitty_ipsum_1.txt
+echo ./kitty_ipsum_1.txt
+./script.sh < kitty_ipsum_1.txt
+cat ./kitt_ipsum_1.txt
+cat < ./kitt_ipsum_1.txt
+__vsc_prompt_cmd_original
+cat < ./kitty_ipsum_1.txt
+./kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
