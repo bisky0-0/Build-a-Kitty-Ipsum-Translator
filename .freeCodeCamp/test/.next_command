@@ -103,3 +103,4 @@ cat name.txt >> name.txt
 cat name.txt < name.txt
 cat < name.txt
 echo yasmeen
+touch script.sh
