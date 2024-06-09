@@ -97,3 +97,4 @@ echo $NAME < name.txt
 echo Yasmeen
 echo $NAME
 cat
+cat name.txt
