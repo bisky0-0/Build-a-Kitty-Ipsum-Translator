@@ -109,3 +109,9 @@ chmod +x script.sh
 echo Yasmeen
 echo Yasmeen
 echo Yasmeen
+echo < name.ttx
+echo < name.txt
+echo < ./name.txt
+./name.txt < echo
+name.txt < echo
+./script.sh < name.txt
