@@ -211,3 +211,5 @@ wc -l
 wc -l
 wc -l-co 'w[a-lorz]*' kitty_ipsum_1.txt
 grep --color 'meow[a-z]*' kitty_ipsum_1.txt
+grep --c 'meow[a-z]*' kitty_ipsum_1.txt
+grep -c 'meow[a-z]*' kitty_ipsum_1.txt
