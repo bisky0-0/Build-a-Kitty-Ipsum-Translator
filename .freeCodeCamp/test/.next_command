@@ -283,3 +283,6 @@ sed 's/r/2/'
 sed 's/r/2/' > stdout.txt
 sed 's/r/2/' stdout.txt
 sed 's/r/2/' name.txt
+sed 's/ree/233/' name.txt
+sed 's/ree/233/' name.txt
+sed 's/free/f233/' name.txt
