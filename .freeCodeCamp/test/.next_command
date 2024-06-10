@@ -460,3 +460,11 @@ diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
 git init
 git status
 git add .
+git commit -m "adding all the files"
+git remote -v
+git remote remove
+git remote remove origin
+git remote -v
+ls --color=auto
+git rm kitty_info.txNumber
+git add .
