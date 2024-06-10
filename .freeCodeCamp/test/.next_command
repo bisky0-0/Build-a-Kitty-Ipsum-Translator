@@ -291,3 +291,8 @@ sed 's/freecodecamp/f233C0d3C@mp/gi' name.txt
 sed 's/freecodecamp/f233C0d3C@mp/g' name.txt
 sed 's/freecodecamp/f233C0d3C@mp/ig' name.txt
 sed 's/freecodecamp/f233C0d3C@mp/i' name.txt
+sed 's/freecodecamp/f233C0d3C@mp/i' name.txt >> stdout.txt
+sed 's/freecodecamp/f233C0d3C@mp/i' name.txt > stdout.txt
+sed 's/freecodecamp/f233C0d3C@mp/i' name.txt < stdout.txt
+sed 's/freecodecamp/f233C0d3C@mp/i' name.txt < name.txt
+sed 's/freecodecamp/f233C0d3C@mp/i' < name.txt
