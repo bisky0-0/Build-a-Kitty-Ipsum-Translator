@@ -394,3 +394,6 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 echo -e "\nLines that they appear on:" >> kitty_ipsum_2.txt
 echo -e "\nLines that they appear on:" >> kitty_info.txt
+__vsc_prompt_cmd_original
+grep -n 'cat[a-z]*' kitty_ipsum_2.txt
+grep -n 'cat[a-z]*' kitty_ipsum_2.txt
