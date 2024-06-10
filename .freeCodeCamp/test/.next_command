@@ -388,3 +388,5 @@ grep 'cat[a-z]*' kitty_ipsum_2.txt
 grep --color 'cat[a-z]*' kitty_ipsum_2.txt
 echo -e "\nLines that they appear on:" of times cat, cats, or catnip appears:t >> kitty_info.txNumber
 echo -e "\nNumber of times cat, cats, or catnip appears:" >> kitty_info.txt
+grep -o 'cat[a-z]*' kitty_ipsum_2.txt
+grep -o 'cat[a-z]*' kitty_ipsum_2.txt
